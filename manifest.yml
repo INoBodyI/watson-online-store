@@ -23,5 +23,5 @@ applications:
   disk_quota: 1024M
 env:
   CLOUDANT_DB_NAME: watson-online-store
-  SLACK_BOT_USER: dwellor
+  SLACK_BOT_USER: dwell
   SLACK_BOT_TOKEN: xoxb-718755054816-720665174231-J1DAHdp1r1VbSuQT7nSF4FHf
