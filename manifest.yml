@@ -17,11 +17,11 @@ applications:
   command: python python-flask-server/server.py
   memory: 128M
   instances: 1
-  domain: mybluemix.net
+  domain: eu-gb.mybluemix.net
   name: watson-online-store-demo
   host: watson-online-store-demo
   disk_quota: 1024M
 env:
   CLOUDANT_DB_NAME: watson-online-store
-  SLACK_BOT_USER: wos
-  SLACK_BOT_TOKEN: placeholder
+  SLACK_BOT_USER: dwellor
+  SLACK_BOT_TOKEN: xoxb-718755054816-720665174231-J1DAHdp1r1VbSuQT7nSF4FHf
